@@ -1,0 +1,10 @@
+{
+  "id": "gui_zombie_radar",
+  "version": "1.0.0",
+  "display_name": "Zombie Radar",
+  "author": "goddot",
+  "discord_link": "https://discord.com/channels/549281623154229250/1565483540076822599",
+  "github_link": "https://github.com/bitopsy/BAR-Widgets/tree/main/Widgets/community/gui_zombie_radar",
+  "description": "Estimates zombie biomass (wreck metal) around the map as clusters, with a draggable HUD, minimap blobs and world markers.",
+  "last_updated": "2026-10-29T00:00:00.000Z"
+}
