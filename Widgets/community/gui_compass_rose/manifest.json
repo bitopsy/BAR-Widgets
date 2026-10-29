@@ -1,0 +1,10 @@
+{
+	"id": "gui_compass_rose",
+	"version": "1.0.0",
+	"display_name": "GUI Compass Rose",
+	"author": "Greg Weaver",
+	"discord_link": "",
+	"github_link": "",
+	"description": "Draws a compass rose on the screen next to the minimap, so that at a glance you know what direction to refer to.",
+	"last_updated": "2026-10-18T00:00:00.000Z"
+}
